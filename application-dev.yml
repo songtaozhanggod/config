@@ -14,7 +14,7 @@ spring:
     auto: true
   rabbitmq:
     host: paascloud-mq-rabbit
-    port: 15672
+    port: 5672
     username: admin
     password: admin
   redis:
